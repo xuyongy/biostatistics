@@ -13,4 +13,4 @@ proc freq data=one;
   tables r*c/chisq;
   title 'Chisquare Test';
   run;
-
+     
